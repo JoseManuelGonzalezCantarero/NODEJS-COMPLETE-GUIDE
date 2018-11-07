@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/JoseManuelGonzalezCantarero/NODEJS-COMPLETE-GUIDE/issues"
   },
-  "homepage": "https://github.com/JoseManuelGonzalezCantarero/NODEJS-COMPLETE-GUIDE#readme"
+  "homepage": "https://github.com/JoseManuelGonzalezCantarero/NODEJS-COMPLETE-GUIDE#readme",
+  "devDependencies": {
+    "nodemon": "^1.18.6"
+  }
 }
